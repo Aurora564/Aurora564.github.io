@@ -1,0 +1,7 @@
+baseURL = "https://example.com/"
+languageCode = "zh-cn"
+title = "Aurora Blog"
+theme = ""
+
+[params]
+  description = "技术与思考"
