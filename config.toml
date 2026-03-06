@@ -4,9 +4,6 @@ title = "Aurora Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
 
-[author]
-  name = "Aurora"
-
 [pagination]
   pagerSize = 8
 
@@ -22,6 +19,10 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+
+  [params.author]
+    name = "Aurora"
+    email = ""
 
   [params.homeInfo]
     Title = "Aurora Blog"
