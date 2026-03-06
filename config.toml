@@ -13,6 +13,7 @@ enableRobotsTXT = true
   series = "series"
 
 [params]
+  author = "Aurora"
   description = "技术、读书与思考"
   defaultTheme = "auto"
   disableThemeToggle = false
@@ -20,9 +21,6 @@ enableRobotsTXT = true
   ShowShareButtons = true
   ShowPostNavLinks = true
 
-  [params.author]
-    name = "Aurora"
-    email = ""
 
   [params.homeInfo]
     Title = "Aurora Blog"
